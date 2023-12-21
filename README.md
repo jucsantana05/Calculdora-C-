@@ -1,4 +1,4 @@
-# Calculdora-C# 
+# Calculdora C# 
 Este é um projeto simples de uma calculadora desenvolvida em C# utilizando o ambiente de desenvolvimento .NET. A calculadora oferece funcionalidades básicas de operações matemáticas, como adição, subtração, multiplicação, divisão e cálculo de potência.
 
 Funcionalidades:
