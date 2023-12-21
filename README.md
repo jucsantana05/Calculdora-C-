@@ -17,4 +17,4 @@ Contribuições:
 Se você deseja contribuir para a melhoria desta calculadora, sinta-se à vontade para realizar um fork deste repositório, implementar melhorias ou correções e criar uma solicitação de pull. Toda contribuição é bem-vinda!
 
 Autor
-Este projeto foi desenvolvido por Julia Crdoso como uma aplicação de aprendizado em C#. Sinta-se à vontade para entrar em contato para mais informações ou sugestões.
+Este projeto foi desenvolvido por Julia Cardoso como uma aplicação de aprendizado em C#. Sinta-se à vontade para entrar em contato para mais informações ou sugestões.
